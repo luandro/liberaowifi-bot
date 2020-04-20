@@ -1,0 +1,13 @@
+{
+  "name": "liberaowifi-bot",
+  "version": "1.0.0",
+  "description": "Para para campanha #liberaowifi da Coolab",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "telegraf": "^3.37.0"
+  },
+  "repository": "https://github.com/luandro/liberaowifi-bot.git",
+  "author": "luandro <luandro@gmail.com>",
+  "license": "MIT"
+}
